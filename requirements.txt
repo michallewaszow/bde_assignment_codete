@@ -1,4 +1,4 @@
 pandas==2.1.1
-pyspark==3.5.0
+pyspark==3.3.3
 pytest==7.4.2
 chispa==0.9.4
